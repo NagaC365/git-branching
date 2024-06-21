@@ -3,3 +3,5 @@ hello
 This is the file to give some insights into branching. 
 
 Commit 1 for the feature_1
+
+Commit 2 for the feature_2
